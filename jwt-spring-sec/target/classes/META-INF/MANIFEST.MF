@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: jwt-spring-boot-security-angularjs
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: laptop
+Implementation-Vendor-Id: org.techhack.jwt
+Build-Jdk: 1.8.0_74
+Implementation-URL: http://projects.spring.io/spring-boot/jwt-spring-b
+ oot-security-angularjs/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
